@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Lista SYSTEM "provera.dtd">
+<Magacin>
+<Artikal>
+	<Naziv sifraArtikla=""></Naziv>
+	<DatumIzrade>
+		<Dan></Dan>
+		<Mesec></Mesec>
+		<Godina></Godina>
+	</DatumIzrade>
+	<Cena tipCene=""></Cena>
+	<Kompanija>
+		<Ime></Ime>
+		<Adresa></Adresa>
+	</Kompanija>
+	<Email dostupnost=""></Email>
+</Artikal>
+</Magacin>
