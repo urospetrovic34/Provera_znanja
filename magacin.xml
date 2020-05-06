@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE Lista SYSTEM "provera.dtd">
+<!DOCTYPE Magacin SYSTEM "magacin.dtd">
 <Magacin>
 <Artikal>
 	<Naziv sifraArtikla=""></Naziv>
@@ -8,11 +8,11 @@
 		<Mesec></Mesec>
 		<Godina></Godina>
 	</DatumIzrade>
-	<Cena tipCene=""></Cena>
+	<Cena tipCene="dinar"></Cena>
 	<Kompanija>
 		<Ime></Ime>
 		<Adresa></Adresa>
 	</Kompanija>
-	<Email dostupnost=""></Email>
+	<Email dostupnost="privatni"></Email>
 </Artikal>
 </Magacin>
