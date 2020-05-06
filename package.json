@@ -1,0 +1,25 @@
+{
+  "name": "provera__znanja",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urospetrovic34/Provera_znanja.git"
+  },
+  "author": "Uros Petrovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/urospetrovic34/Provera_znanja/issues"
+  },
+  "homepage": "https://github.com/urospetrovic34/Provera_znanja#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "http": "0.0.1-security",
+    "query-string": "^6.12.1",
+    "url": "^0.11.0"
+  }
+}
