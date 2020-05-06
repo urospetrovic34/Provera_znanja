@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE Magacin SYSTEM "magacin.dtd">
-<Magacin>
+<!--<!DOCTYPE Magacin SYSTEM "magacin.dtd">-->
+<Magacin 
+	xmlns="http://www.w3schools.com"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.w3schools.com zad2.xsd">
 <Artikal>
-	<Naziv sifraArtikla=""></Naziv>
+	<Naziv sifraArtikla="132">Jakna</Naziv>
 	<DatumIzrade>
-		<Dan></Dan>
-		<Mesec></Mesec>
-		<Godina></Godina>
+		<Dan>1</Dan>
+		<Mesec>5</Mesec>
+		<Godina>2010</Godina>
 	</DatumIzrade>
-	<Cena tipCene="dinar"></Cena>
+	<Cena tipCene="dinar">1200</Cena>
 	<Kompanija>
-		<Ime></Ime>
-		<Adresa></Adresa>
+		<Ime>Versace</Ime>
+		<Adresa>Milano, Lombardy, Italy</Adresa>
 	</Kompanija>
-	<Email dostupnost="privatni"></Email>
+	<Email dostupnost="privatni">nekimejlA4@gmail.com</Email>
 </Artikal>
 </Magacin>
